@@ -1,5 +1,5 @@
-identificacion,mes,dia,año,plot_id,species_id,sexo,largo_patas,peso
-1,7,16,1977,2,NL,M,32,
+id_animal,mes,dia,año,plot,species_id,sexo_animal,patas,su_peso
+1,7,16,1977,2,NL,M,45,
 2,7,16,1977,3,NL,M,33,
 3,7,16,1977,2,DM,F,37,
 4,7,16,1977,7,DM,M,36,
